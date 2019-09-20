@@ -1,4 +1,4 @@
-package com.wesley.demomustache.demomustache;
+package com.wesley.demomustache;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
